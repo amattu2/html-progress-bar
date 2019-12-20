@@ -4,10 +4,10 @@ Just a simple HTML5/CSS3 based progress bar. Features a simple UI with optional 
 # Usage
 Find this block of code:
 ```
-				<div class='progress-case'>
-					<div class='progress-status' id='progress-text'></div>
-					<div class='progress-bar' id='progress-bar' data-progress="0"></div>
-				</div>
+<div class='progress-case'>
+	<div class='progress-status' id='progress-text'></div>
+	<div class='progress-bar' id='progress-bar' data-progress="0"></div>
+</div>
 ```
 
 To use, simply set the data-progress of the progress-bar element (0-100).
